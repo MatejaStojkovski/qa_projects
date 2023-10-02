@@ -1,0 +1,12 @@
+package Section07;
+
+public class L05_Variables {
+
+	private static String dogBreed;
+
+	public static void main(String[]args) {
+		
+		dogBreed = "poodle";
+	}
+
+}
